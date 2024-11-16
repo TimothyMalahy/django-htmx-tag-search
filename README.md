@@ -8,8 +8,8 @@ I am by no means a front-end dev, but it seems to work the way I want so far. Wo
 The goal behind this is to make it as easy as possible to integrate into your own forms
 
 # Requirements
-HTMX
-
+[HTMX](https://htmx.org/)
+[HTMX Response Targets Extension](https://htmx.org/extensions/response-targets/)
 
 # How does it work?
 
@@ -26,3 +26,9 @@ HTMX
 - [ ] Add an option to remove the field from the dropdown if the dev doesn't want it selectable again
 - [ ] Make it work as a multi-select or not
 - [ ] Get this added to pypi and deployed
+- [ ] Create read the docs
+- [ ] Create installation instructions
+   - [ ] HTMX
+   - [ ] [HTMX extension for hx-target ](https://htmx.org/extensions/response-targets/)
+   - [ ] Create calling instructions
+- [ ] Figure out if [django-htmx](https://django-htmx.readthedocs.io/en/latest/installation.html) is a dependency or not and if it should be or not
