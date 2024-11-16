@@ -8,8 +8,8 @@ I am by no means a front-end dev, but it seems to work the way I want so far. Wo
 The goal behind this is to make it as easy as possible to integrate into your own forms
 
 # Requirements
-[HTMX](https://htmx.org/)
-[HTMX Response Targets Extension](https://htmx.org/extensions/response-targets/)
+- [HTMX](https://htmx.org/)
+- [HTMX Response Targets Extension](https://htmx.org/extensions/response-targets/)
 
 # How does it work?
 
