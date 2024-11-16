@@ -25,3 +25,4 @@ HTMX
 # Todo
 - [ ] Add an option to remove the field from the dropdown if the dev doesn't want it selectable again
 - [ ] Make it work as a multi-select or not
+- [ ] Get this added to pypi and deployed
